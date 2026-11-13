@@ -1,0 +1,11 @@
+поле,тип в pandas,тип в DataLens,пример
+order_id,str,Строка,76c6e866289321a7c93b82b54852dc33
+month,str,Дата,2017-01-01
+region,str,Строка,RS
+items_cnt,int64,Целое число,1
+basket_size,str,Строка,1 товар
+sellers_cnt,int64,Целое число,1
+multi_seller,int64,Целое число,0
+goods_value,float64,Дробное число,19.9
+freight_value,float64,Дробное число,16.05
+order_value,float64,Дробное число,35.95
