@@ -53,7 +53,7 @@ WHERE order_status = 'delivered'
 | Средний чек заказов «3+ товара», BRL | 370.96 |
 
 ## Дашборд DataLens
-Ссылка: <!-- https://datalens.ruembeds/dash#dl_embed_token=eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imt4NTh2dmx1aTh0bTMifQ.eyJlbWJlZElkIjoieGFpbDg4ZHI5YXJjZyIsInNoYXJpbmdJZCI6Iml2MzZ0dHpidGc3NjEiLCJkbEVtYmVkU2VydmljZSI6IllDX0RBVEFMRU5TX0VNQkVERElOR19TRVJWSUNFX01BUksiLCJpYXQiOjE3OTQ1OTQ2MTIsImV4cCI6MTc5NDY4MTAxMiwicGFyYW1zIjp7fX0.rlAOHt6pQpY1DSbRO-xvJor7M23qickA9MHy8kV1muEjTUWSlHs-3Q3jD98U7JUWAkB9UV5xT7-GSGci3rZZk_RTkDqW4kkqWLIWchMUKnc4gKhrG5zrq_jewuYVi9roFab2QlGo2SuzViKwWMLjodvihXv4K9AdxZmqdT1IVsKl2LEX6_Z5aZmxep2ODhLVe68kKuUeGYHDkV_fIQL9Hur7hIz_WDN1_ggGjBvZSIVfuB3BHIUVgtyJQdo6G6-2tE-Hl4_xxEcGmdtTqrtRakusYiIHDUH2A10p3m6Z89Ayu__05e4iZNsS1v8-69njCL7iLtYGmqz42Y8yj-7h-g -->
+Ссылка: https://datalens.ruembeds/dash#dl_embed_token=eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Imt4NTh2dmx1aTh0bTMifQ.eyJlbWJlZElkIjoieGFpbDg4ZHI5YXJjZyIsInNoYXJpbmdJZCI6Iml2MzZ0dHpidGc3NjEiLCJkbEVtYmVkU2VydmljZSI6IllDX0RBVEFMRU5TX0VNQkVERElOR19TRVJWSUNFX01BUksiLCJpYXQiOjE3OTQ1OTQ2MTIsImV4cCI6MTc5NDY4MTAxMiwicGFyYW1zIjp7fX0.rlAOHt6pQpY1DSbRO-xvJor7M23qickA9MHy8kV1muEjTUWSlHs-3Q3jD98U7JUWAkB9UV5xT7-GSGci3rZZk_RTkDqW4kkqWLIWchMUKnc4gKhrG5zrq_jewuYVi9roFab2QlGo2SuzViKwWMLjodvihXv4K9AdxZmqdT1IVsKl2LEX6_Z5aZmxep2ODhLVe68kKuUeGYHDkV_fIQL9Hur7hIz_WDN1_ggGjBvZSIVfuB3BHIUVgtyJQdo6G6-2tE-Hl4_xxEcGmdtTqrtRakusYiIHDUH2A10p3m6Z89Ayu__05e4iZNsS1v8-69njCL7iLtYGmqz42Y8yj-7h-g
 
 | № | Тип | Название |
 |---|---|---|
@@ -63,7 +63,7 @@ WHERE order_status = 'delivered'
 | 4 | Линейная диаграмма | Товаров в заказе по месяцам |
 | 5 | Комбинированная диаграмма | Заказы и доля доставки |
 
-![Дашборд](img/dashboard.png)
+![Дашборд](img/dashboard.PNG)
 
 ## Выводы и бизнес-рекомендации
 1. **Корзина Olist — одиночная.** 90% заказов содержат 1 товар, доля заказов с 2+ товарами — 10.0%. Средний размер корзины стабилен: 1.11–1.22 товара на заказ за 2017–2018 гг. Cross-sell на маркетплейсе почти не развит.
